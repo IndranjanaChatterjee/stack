@@ -27,6 +27,9 @@ void pushname(String n)
 String popname()
 
 void display()
+## Link to the program [problem1](https://github.com/IndranjanaChatterjee/stack/blob/main/problem.java)
+
+
 
 ## 2.  Question- 
 A stack is designed to store the books in a stack with LIFO:
@@ -51,6 +54,10 @@ String tell()
 
 void display()
 
+## Link to the program [problem2](https://github.com/IndranjanaChatterjee/stack/blob/main/problem2.java)
+
+
+
 ## 3. Question-
 A stack is designed to store the books in a stack with LIFO.This is like a pile of China plates where we can add or remove from the top:
 
@@ -73,6 +80,10 @@ void pushItem(int value)
 int popItem()
 
 void display()
+
+## Link to the program [problem3](https://github.com/IndranjanaChatterjee/stack/blob/main/problem3.java)
+
+
 
 
 ## 4.  Question-
@@ -97,5 +108,9 @@ void pushChar(char v)
 char popChar()
 
 void display()
+
+## Link to the program [problem4](https://github.com/IndranjanaChatterjee/stack/blob/main/problem4.java)
+
+
 
 
