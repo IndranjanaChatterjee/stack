@@ -111,6 +111,12 @@ void display()
 
 ## Link to the program [problem4](https://github.com/IndranjanaChatterjee/stack/blob/main/problem4.java)
 
+## Implementing multiple stacks:
+
+Filling the stack from two sides of the array and implementing multiple stacks and two stacks are stack A and Stack B and the stacks overflows when one overlaps onto the other.
+
+Link to the program-> [LinK](https://github.com/IndranjanaChatterjee/stack/blob/main/multipleStacks.java)
+
 
 
 
