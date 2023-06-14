@@ -117,6 +117,10 @@ Filling the stack from two sides of the array and implementing multiple stacks a
 
 Link to the program-> [LinK](https://github.com/IndranjanaChatterjee/stack/blob/main/multipleStacks.java)
 
+## Infix To Postfix Operation in java
+
+Link -> [Link](https://github.com/IndranjanaChatterjee/stack/blob/main/infixTopostfix.java)
+
 
 
 
